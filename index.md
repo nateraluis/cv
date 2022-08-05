@@ -39,9 +39,15 @@ Urban planning, Network & Data science research methodologies, Data mining, Stat
 __Associate, software developer, [SYSTEMIQ](http://www.systemiq.earth)__
 
 - Implementation of GitHub template repository for cross projects re-usability with CI/CD workflow for linting and testing. The template is currently in use across multiple projects.
-- 
-<!-- ### Footer
+- **Steel and aluminium decarbonization strategy.** Developed and maintained a python library to generate decarbonization simulations. I was part of the team that designed the architecture of the library, implemented the MVP and has keep developing it. The library is currently being used by three teams across the company, and powers decarbonization strategies for industries such as Aluminium, Ammonia, and Cement producers.
 
-Last updated: August 2022 -->
+`2021 - 2021`
+__Research fellow, [Agglomeration and Social Networks Research Lab](https://anet.krtk.mta.hu/)__
+
+- **Urban mobility and COVID-19.** Analyzed GPS mobility data to provide insights regarding the impact of
+COVID-19 in the urban mobility of Budapest.
+
+<!-- ### Footer Last updated: August 2022 -->
+
 
 
