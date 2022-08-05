@@ -1,91 +1,47 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Luis Natera
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Luis Guillermo Natera Orozco, Ph.D.
+Geo Network Scientist, Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:natera@hey.com">natera@hey.com</a>
+| <a href="https://luisnatera.com">luisnatera.com</a>
+| <a href="https://github.com/nateraluis">GitHub</a>
+| <a href="https://linkedin.com/in/natera">LinkedIn</a>
 </div>
 
 
-## Currently
+Motivated, interdisciplinarity team-work oriented, and responsible Data Analyst with significant experience working in urban mobility and data analysis. Highly educated, Ph.D. in Network Science from the Central European University. Besides my academic background I have work experience across different industries and sectors developing python algorithms to, among others, measure urban liveability, analyse investment decisions, and understand consumers behaviors.
 
-Standing on the shoulders of giants
+I am interested in the use of technology and data as a driver to have an impact in businesses and society.
 
-### Specialized in
+## Technical skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Data management
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+PostgreSQL, PostGIS, Data Analysis, Pattern & Trend Identification, Data Visualization, Data wrangling with Python
 
 
-## Education
+### Computational tools
 
-`1654-1660`
-__The King's School, Grantham.__
+Python (+5 years experience), Jupyter Notebooks & Jupyter Lab stack, GeoPython stack (GeoPandas, MovingPandas, Kepler, H3, OSMnx, Google Maps API), Sci-kit learn, Django (intermediate), HTML (intermediate), CSS (intermediate), Javascript (beginner), SQL (intermediate), LATEX(intermediate), Git + {GitHub, GitLab, Bitbucket}, Ci/Cd, AWS (RDS, S3, EC2), Tableau (intermediate)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Research methods
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Urban planning, Network & Data science research methodologies, Data mining, Statistical analysis
 
 
+## WORK EXPERIENCE
 
-## Awards
+`2021 - now`
+__Associate, software developer, [SYSTEMIQ](http://www.systemiq.earth)__
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
+- Implementation of GitHub template repository for cross projects re-usability with CI/CD workflow for linting and testing. The template is currently in use across multiple projects.
+- 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2022 -->
 
 
