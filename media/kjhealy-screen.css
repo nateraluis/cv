@@ -58,8 +58,8 @@ body {
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
 	margin-top: 5em;
-	margin-left: 0.25em;
-	margin-right: 0.5em;
+	margin-left: 0em;
+	margin-right: 1em;
 }
 
 p {
