@@ -72,7 +72,7 @@ p {
 code {
 	font: normal normal;
 	font-size: 80%;
-	line-height: 1em;
+	line-height: 0.8;
 	font-family: Menlo,monospace,sans-serif;
 	color: #212121;
 }
@@ -108,7 +108,7 @@ li {
 li ul {
 	position: relative;
 	left: 0;
-	width: 80%;
+	width: 60%;
 	margin-top: 0.25em;
 }
 
