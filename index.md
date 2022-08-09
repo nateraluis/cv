@@ -51,7 +51,6 @@ COVID-19 in the urban mobility of Budapest.
 __Data and network science consultant, [Cities Observatory (ITESM)](https://observatoriodeciudades.mx/)__
 
 - **Accessibility and mobility analysis** Coordinate with the data science team the development of a methodology to measure urban accessibility in 75 Mexican cities using open data. The findings are currently being used by national decission makers to plan better social housing.
-
 - **Air quality during COVID-19 pandemic lockdown** Coordinated a team of researchers to design and develop a methodology to measure the changes in air quality for the cities of Mexico City, Guadalajara, and Monterrey during the COVID-19 lockdowns.
 
 
