@@ -1,0 +1,9 @@
+## Luis Guillermo Natera Orozco, Ph.D.
+
+Originario de Guadalajara, Jalisco, México. Luis es científico de redes, especializado en la aplicación de métodos de análisis de redes complejas para sistemas geoespaciales. Obtuvo su doctorado en Ciencia de Redes en la Central European University, Budapest, Hungría, y a participado en diversas estancias de investigación, entre ellas en el MIT Media Lab, Cambridge, MA, USA. Actualmente trabaja en la intersección de software, ciencia de datos geoespaciales y sustentabilidad.
+
+Los intereses de Luis lo han llevado a trabajar en diferentes ambitos, teniendo experiencia en proyectos de investigación a nivel internacional, así como en la industria y gobierno. Ha trabajado en projectos en conjunto con el MIT, Google, la Comision Europea, entre otros. Algunos de los proyectos destacados en los que ha participado incluyen el desarrollo de un sistema de monitoreo de contaminantes atmosféricos en Guadalajara, un análisis de accesibilidad a servicios de salud, educación y esparcimiento en las áreas metropolitanas de México, y el desarrollo de una plataforma a nivel europeo para el monitoreo y evaulación contaminantes no-CO2 producidos por la aviación.
+
+En el campo geospacial, Luis ha desarrollado metodologías y plataformas digitales para analisar, visualizar y modelar diversos datos geoespaciales. Algunas de estas plataformas y metodologías han sido utilizadas por el INFONAVIT para evaluar la accesibilidad de desarrollos habitacionales. También ha colaborado en plataformas digitales para la identificación de zonas de riesgo de deforestación a nivel global.
+
+El trabajo a nivel internacional de Luis lo ha motivado a buscar soluciones a problemas globales, con aplicaciones locales. Parte importante de esto es la continua colaboración con proyectos en México, donde ha trabajado en conjunto con diversas instituciones, como el Tecnológico de Monterrey, el ITESO y organizaciones de la sociedad civil.
