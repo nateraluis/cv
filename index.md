@@ -81,7 +81,9 @@ Best lighting talk award. International Conference in Complex Networks and their
 ## LANGUAGES
 
 Spanish (native)
+
 English (professional)
+
 French (basic)
 
 
