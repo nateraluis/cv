@@ -31,7 +31,7 @@ Python (+5 years experience), Django, FastAPI, Jupyter Notebooks & Jupyter Lab s
 Urban planning, Network & Data science research methodologies, Data mining, Statistical analysis
 
 
-## MOST RECENT WORK EXPERIENCE
+## Most Recent Work Experience
 
 `2023 - `
 __Software Engineer, [AerLabs](https://www.aerlabs.com)__
@@ -56,7 +56,7 @@ __Data and network science consultant, [Cities Observatory (ITESM)](https://obse
 - **Accessibility and mobility analysis** Coordinate with the data science team the development of a methodology to measure urban accessibility in 75 Mexican cities using open data. The findings are currently being used by national decission makers to plan better social housing.
 - **Air quality during COVID-19 pandemic lockdown** Coordinated a team of researchers to design and develop a methodology to measure the changes in air quality for the cities of Mexico City, Guadalajara, and Monterrey during the COVID-19 lockdowns.
 
-## EDUCATION
+## Education
 
 `2021`
 __Ph.D. Central European University, Budapest, Hungary.__ Network Science.
@@ -70,7 +70,7 @@ __Academic Visit, MIT Medial Lab.__ Center for Civic Media.
 `2010`
 __B.Arch. ITESO, Tlaquepaque, Mexico.__ Architecture.
 
-## AWARDS
+## Awards
 
 `2020`
 Award for Advanced Doctoral Students. Central European University.
@@ -78,7 +78,7 @@ Award for Advanced Doctoral Students. Central European University.
 `2019`
 Best lighting talk award. International Conference in Complex Networks and their Applications.
 
-## LANGUAGES
+## Languages
 
 Spanish (native)
 
