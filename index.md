@@ -17,19 +17,34 @@ Passionate and interdisciplinary Software Developer with a Ph.D. in Network Scie
 
 ## Technical skills
 
-### Data management
-
-PostgreSQL, PostGIS, Data Analysis, Pattern & Trend Identification, Data Visualization, Data wrangling with Python
-
-
 ### Computational tools
 
-Python (+5 years experience), Django, FastAPI, Jupyter Notebooks & Jupyter Lab stack, GeoPython stack (GeoPandas, MovingPandas, Kepler, H3, OSMnx, Google Maps API), Sci-kit learn, HTML, CSS, Javascript, SQL, LATEX, Git + {GitHub, GitLab, Bitbucket}, Ci/Cd, AWS (RDS, S3, EC2)
+Python (+5 years experience)
 
-### Research methods
+Web Development
+- Django
+- FastAPI
+- HTMX
 
-Urban planning, Network & Data science research methodologies, Data mining, Statistical analysis
+GeoSpatial Analysis
 
+- GeoPandas
+- MovingPandas
+- H3
+- OSMnx
+- Google Maps API
+
+Data Management
+- PostgreSQL
+- PostGIS
+- Pandas
+
+### Other Technical Skills
+
+Research Methods
+- Urban Planning
+- Network Science
+- Data Mining
 
 ## Most Recent Work Experience
 
