@@ -36,25 +36,42 @@ Urban planning, Network & Data science research methodologies, Data mining, Stat
 `2023 - `
 __Software Engineer, [AerLabs](https://www.aerlabs.com)__
 
-- Non-CO2 MRV European Comission. Developed a FastAPI based data collection and storage platform for the European Comission (DG-CLIMA). I was the technical lead, and project manager. Part of my work included engagement with stakholders (Airlines, EUROCONTROL, DG-CLIMA) to align on interests, design of the technical solution, and implementation.
-- CAELUS, Dutch Ministry of Infrastructure and Water Management. Tech lead for the implementation of Echo Environmental Management platform. As part of the team, I lead the technical implementation, manged the interface between engineers and the client team , and develop product features. 
+- Non-CO2 MRV European Comission.
+	- Technical lead for a FastAPI-based data collection and storage platform for the European Comission (DG-CLIMA). 
+	- Stakeholder management (Airlines, EUROCONTROL, DG-CLIMA) to align on interests, design of the technical solution, and implementation.
+	- MRV schedule to go live in 2025, collecting data of all commercial European flights.
+- CAELUS, Dutch Ministry of Infrastructure and Water Management.
+	- Tech lead for the implementation of Echo Environmental Management platform. 
+	- Facilitator between the client (non technical team), and the development team.
+	- Backend (FastAPI) developer for custom processes and business implementation. 
 
 `2021 - 2023`
-__Associate, software developer, [SYSTEMIQ](https://www.systemiq.earth)__
+__Associate, Software Developer, [SYSTEMIQ](https://www.systemiq.earth)__
 
-- Implementation of GitHub template repository for cross projects re-usability with CI/CD workflow for linting and testing. The template is currently in use across multiple projects.
-- **Steel and aluminium decarbonization strategy.** Developed and maintained a python library to generate decarbonization simulations. I was part of the team that designed the architecture of the library, implemented the MVP and has keep developing it. The library is currently being used by three teams across the company, and powers decarbonization strategies for industries such as Aluminium, Ammonia, and Cement producers.
+- **PlasticIQ** Django Developer.
+	- Developed a SPA serious-game with Django and HTMX.
+	- App is currently being used globally by Walmart foundation associates
+- **Steel and aluminium decarbonization strategy.**
+	- Developed and maintained a python module to generate decarbonization simulations. 
+	- Core developer for main module powering decarbonization simulations for aluminium, chemicals, concrete and cement, and ammonia.
 
 `2021 - 2021`
 __Research fellow, [Agglomeration and Social Networks Research Lab](https://anet.krtk.mta.hu/)__
 
-- **Urban mobility and COVID-19.** Analyzed GPS mobility data to provide insights regarding the impact of COVID-19 in the urban mobility of Budapest.
+- **Urban mobility and COVID-19.** 
+	- GeoPandas-based analysis of GPS mobility data.
+	- Co-developed the research methodology to understand the impact of urban mobility in the spread of COVID-19 in Budapest.
 
 `2021 - 2023`
 __Data and network science consultant, [Cities Observatory (ITESM)](https://observatoriodeciudades.mx/)__
 
-- **Accessibility and mobility analysis** Coordinate with the data science team the development of a methodology to measure urban accessibility in 75 Mexican cities using open data. The findings are currently being used by national decission makers to plan better social housing.
-- **Air quality during COVID-19 pandemic lockdown** Coordinated a team of researchers to design and develop a methodology to measure the changes in air quality for the cities of Mexico City, Guadalajara, and Monterrey during the COVID-19 lockdowns.
+- **Accessibility and mobility analysis**
+	- Developed a methodology to measure urban accessibility in 75 Mexican cities using open data.
+	- Implemented python-based algorithms to measure urban accessibility.
+	- The findings are currently being used by national decission makers to plan better social housing.
+- **Air quality during COVID-19 pandemic lockdown** 
+	- Coordinated the development of a methodology to measure changes in air quality for Mexican cities during the COVID-19 lockdowns.
+	- Data analysis and results interpretation.
 
 ## Education
 
