@@ -13,7 +13,7 @@ Software Developer.
 </div>
 
 
-Passionate and interdisciplinary Software Developer with a Ph.D. in Network Science from Central European University, specializing in geospatial data analysis and complex network systems. With extensive experience across academic, industry, and governmental sectors, I have developed innovative software solutions and digital platforms to address global challenges in sustainability, urban planning, and environmental monitoring. My expertise spans the development of Python-based algorithms for geospatial analysis, air pollutant monitoring, and accessibility evaluation. I am driven by the potential of technology to create impactful solutions for both businesses and society.
+Passionate and interdisciplinary Software Developer with a Ph.D. in Network Science from Central European University. I have developed innovative software solutions and digital platforms to address global challenges in sustainability, urban planning, and environmental monitoring. My expertise ranges from the development of Python-based algorithms for geospatial analysis, air pollutant monitoring, and accessibility evaluation to web applications for airport sustainability management and plastic packaging. I am driven by the potential of technology to create impactful solutions for both society and businesses.
 
 ## Technical skills
 
@@ -29,7 +29,6 @@ Web Development
 GeoSpatial Analysis
 
 - GeoPandas
-- MovingPandas
 - H3
 - OSMnx
 - Google Maps API
@@ -39,52 +38,57 @@ Data Management
 - PostGIS
 - Pandas
 
-### Other Technical Skills
-
-Research Methods
-- Urban Planning
-- Network Science
-- Data Mining
-
 ## Most Recent Work Experience
 
 `2023 - `
 __Software Engineer, [AerLabs](https://www.aerlabs.com)__
 
-- Non-CO2 MRV European Comission.
-	- Technical lead for a FastAPI-based data collection and storage platform for the European Comission (DG-CLIMA). 
-	- Stakeholder management (Airlines, EUROCONTROL, DG-CLIMA) to align on interests, design of the technical solution, and implementation.
+- **Echo Environmental Management Platform.**
+	- Project lead, agile-based development of a web platform to manage the environmental impact of airports.
+	- Developed FastAPI-based backend to manage data collection, storage, and computational processes.
+	- Provided support to the frontend team to integrate the backend with the frontend.
+- **Non-CO2 MRV,** DG CLIMA European Comission.
+	- Tech lead for a FastAPI-based data collection and storage platform for the European Comission (DG-CLIMA). 
+	- Stakeholder management (Airlines, EUROCONTROL, DG-CLIMA) to align on interests, design of the technical solution, and implementation of proof of concept.
 	- MRV schedule to go live in 2025, collecting data of all commercial European flights.
-- CAELUS, Dutch Ministry of Infrastructure and Water Management.
+- **CAELUS,** Dutch Ministry of Infrastructure and Water Management.
 	- Tech lead for the implementation of Echo Environmental Management platform. 
 	- Facilitator between the client (non technical team), and the development team.
 	- Backend (FastAPI) developer for custom processes and business implementation. 
+- **Business Development and Internal Processes.**
+	- Technical writeup for business proposals, winning the bids for the European Comission and the Dutch Ministry of Infrastructure and Water Management.
+	- Developed the Information Security Management System (ISMS) for the company, culminating in obtaining the certification ISO 27001.
+	- Owner of the ISMS, responsible for maintaining the certification.
+	- Developed the company's internal wiki, to document processes and procedures.
 
 `2021 - 2023`
 __Associate, Software Developer, [SYSTEMIQ](https://www.systemiq.earth)__
 
-- **PlasticIQ** Django Developer.
+- **PlasticIQ,** Walmart Foundation. 
 	- Developed a SPA serious-game with Django and HTMX.
 	- App is currently being used globally by Walmart foundation associates
-- **Steel and aluminium decarbonization strategy.**
+- **Steel and Aluminium Decarbonization Strategy,** Mission Possible Partnership.
 	- Developed and maintained a python module to generate decarbonization simulations. 
 	- Core developer for main module powering decarbonization simulations for aluminium, chemicals, concrete and cement, and ammonia.
+- **Internal processes.**
+	- Stablished the internal Git workflow for the company.
+	- Development and coaching for non-technical team members to use the technical tools.
 
 `2021 - 2021`
-__Research fellow, [Agglomeration and Social Networks Research Lab](https://anet.krtk.mta.hu/)__
+__Research Fellow, [Agglomeration and Social Networks Research Lab](https://anet.krtk.mta.hu/)__
 
-- **Urban mobility and COVID-19.** 
+- **Urban Mobility and COVID-19.** 
 	- GeoPandas-based analysis of GPS mobility data.
 	- Co-developed the research methodology to understand the impact of urban mobility in the spread of COVID-19 in Budapest.
 
 `2021 - 2023`
-__Data and network science consultant, [Cities Observatory (ITESM)](https://observatoriodeciudades.mx/)__
+__Data and Network Science Consultant, [Cities Observatory (ITESM)](https://observatoriodeciudades.mx/)__
 
-- **Accessibility and mobility analysis**
+- **Accessibility and Mobility Analysis**
 	- Developed a methodology to measure urban accessibility in 75 Mexican cities using open data.
 	- Implemented python-based algorithms to measure urban accessibility.
 	- The findings are currently being used by national decission makers to plan better social housing.
-- **Air quality during COVID-19 pandemic lockdown** 
+- **Air Quality During COVID-19 Pandemic Lockdown** 
 	- Coordinated the development of a methodology to measure changes in air quality for Mexican cities during the COVID-19 lockdowns.
 	- Data analysis and results interpretation.
 
@@ -120,7 +124,7 @@ French (basic)
 
 
 
-<!-- ### Footer Last updated: October 2024 -->
+<!-- ### Footer Last updated: April 2025 -->
 
 
 
