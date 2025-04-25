@@ -65,7 +65,7 @@ __Software Engineer, [AerLabs](https://www.aerlabs.com)__
 __Associate, Software Developer, [SYSTEMIQ](https://www.systemiq.earth)__
 
 - **PlasticIQ,** Walmart Foundation. 
-	- Developed a SPA serious-game with Django and HTMX.
+	- Developed a SPA serious-game with Django and HTMX. [PlatiscIQ live version](https://plasticiq.global)
 	- App is currently being used globally by Walmart foundation associates
 - **Steel and Aluminium Decarbonization Strategy,** Mission Possible Partnership.
 	- Developed and maintained a python module to generate decarbonization simulations. 
