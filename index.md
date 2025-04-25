@@ -47,16 +47,16 @@ __Software Engineer, [AerLabs](https://www.aerlabs.com)__
 	- Project lead, agile-based development of a web platform to manage the environmental impact of airports.
 	- Developed FastAPI-based backend to manage data collection, storage, and computational processes.
 	- Provided support to the frontend team to integrate the backend with the frontend.
-- **Non-CO2 MRV,** DG CLIMA European Comission.
-	- Tech lead for a FastAPI-based data collection and storage platform for the European Comission (DG-CLIMA). 
+- **Non-CO2 MRV,** DG CLIMA European Commission.
+	- Tech lead for a FastAPI-based data collection and storage platform for the European Commission (DG-CLIMA). 
 	- Stakeholder management (Airlines, EUROCONTROL, DG-CLIMA) to align on interests, design of the technical solution, and implementation of proof of concept.
 	- MRV schedule to go live in 2025, collecting data of all commercial European flights.
 - **CAELUS,** Dutch Ministry of Infrastructure and Water Management.
-	- Tech lead for the implementation of Echo Environmental Management platform. 
+	- Tech lead for the adaptation of Echo Environmental Management platform to the CAELUS project.
 	- Facilitator between the client (non technical team), and the development team.
 	- Backend (FastAPI) developer for custom processes and business implementation. 
 - **Business Development and Internal Processes.**
-	- Technical writeup for business proposals, winning the bids for the European Comission and the Dutch Ministry of Infrastructure and Water Management.
+	- Technical writer for business proposals, winning the bids for the European Commission and the Dutch Ministry of Infrastructure and Water Management.
 	- Developed the Information Security Management System (ISMS) for the company, culminating in obtaining the certification ISO 27001.
 	- Owner of the ISMS, responsible for maintaining the certification.
 	- Developed the company's internal wiki, to document processes and procedures.
@@ -71,7 +71,7 @@ __Associate, Software Developer, [SYSTEMIQ](https://www.systemiq.earth)__
 	- Developed and maintained a python module to generate decarbonization simulations. 
 	- Core developer for main module powering decarbonization simulations for aluminium, chemicals, concrete and cement, and ammonia.
 - **Internal processes.**
-	- Stablished the internal Git workflow for the company.
+	- Established the internal Git workflow for the company.
 	- Development and coaching for non-technical team members to use the technical tools.
 
 `2021 - 2021`
@@ -87,7 +87,7 @@ __Data and Network Science Consultant, [Cities Observatory (ITESM)](https://obse
 - **Accessibility and Mobility Analysis**
 	- Developed a methodology to measure urban accessibility in 75 Mexican cities using open data.
 	- Implemented python-based algorithms to measure urban accessibility.
-	- The findings are currently being used by national decission makers to plan better social housing.
+	- The findings are currently being used by national decision makers to plan better social housing.
 - **Air Quality During COVID-19 Pandemic Lockdown** 
 	- Coordinated the development of a methodology to measure changes in air quality for Mexican cities during the COVID-19 lockdowns.
 	- Data analysis and results interpretation.
