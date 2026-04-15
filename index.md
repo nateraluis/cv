@@ -6,8 +6,8 @@ title: Luis Natera
 Creative Technologist.
 
 <div id="webaddress">
-<a href="mailto:natera@hey.com">natera@hey.com</a>
-| <a href="https://luisnatera.com">luisnatera.com</a>
+<a href="mailto:luis@tynstudio.com">luis@tynstudio.com</a>
+| <a href="https://tynstudio.com">tynstudio.com</a>
 | <a href="https://github.com/nateraluis">GitHub</a>
 | <a href="https://linkedin.com/in/natera">LinkedIn</a>
 </div>
