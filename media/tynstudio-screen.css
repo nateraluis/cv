@@ -1,0 +1,236 @@
+/* Tyn Studio CV — Screen
+   A calm style for bold ideas.
+*/
+
+/* Reset */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* end reset */
+
+
+/* ——— Base ——— */
+
+body {
+	font-family: 'Arimo', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-size: 92%;
+	line-height: 1.6;
+	color: #1f2937;
+	margin: 4em auto;
+	max-width: 960px;
+	padding: 0 2em;
+	-webkit-font-smoothing: antialiased;
+}
+
+
+/* ——— Two-column layout ——— */
+
+p {
+	position: relative;
+	left: 30%;
+	width: 68%;
+	margin-bottom: 0.7em;
+}
+
+ul {
+	position: relative;
+	left: 30%;
+	width: 68%;
+	margin-bottom: 1.4em;
+	margin-top: -0.3em;
+}
+
+li {
+	padding-left: 1.2em;
+	text-indent: -1.2em;
+	line-height: 1.5;
+	margin-bottom: 0.15em;
+	color: #374151;
+}
+
+li:before {
+	content: "–";
+	position: relative;
+	left: -0.35em;
+	color: #9ca3af;
+}
+
+li ul {
+	position: relative;
+	left: 0;
+	width: 100%;
+	margin-top: 0.2em;
+	margin-bottom: 0.5em;
+}
+
+
+/* ——— Date codes (backtick spans) ——— */
+
+code {
+	font-family: 'IBM Plex Mono', 'SF Mono', Menlo, monospace;
+	font-size: 78%;
+	line-height: 1;
+	color: #6b7280;
+	letter-spacing: 0.02em;
+}
+
+p code {
+	position: absolute;
+	left: -14%;
+}
+
+
+/* ——— Headings ——— */
+
+h1, h2, h3, h4 {
+	font-family: 'Arimo', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+	font-weight: 600;
+	width: 68%;
+}
+
+h1 {
+	font-size: 1.65em;
+	line-height: 1.15;
+	position: relative;
+	left: 30%;
+	color: #1f2937;
+	letter-spacing: -0.01em;
+}
+
+/* Subtitle (tagline) */
+h1 + p {
+	font-size: 1.05em;
+	font-style: normal;
+	font-weight: 400;
+	color: #6b7280;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	margin-bottom: 0.3em;
+}
+
+h2 {
+	font-size: 0.78em;
+	text-transform: uppercase;
+	letter-spacing: 0.12em;
+	color: #667eea;
+	margin-top: 2.8em;
+	position: relative;
+	top: 1.5em;
+	text-align: right;
+	width: 22%;
+	font-weight: 600;
+}
+
+h3 {
+	font-size: 0.85em;
+	line-height: 2em;
+	position: relative;
+	top: 1.7em;
+	text-align: right;
+	width: 22%;
+	color: #9ca3af;
+	font-weight: 400;
+}
+
+
+/* ——— Links ——— */
+
+a {
+	color: inherit;
+	text-decoration: none;
+	border-bottom: 1px solid transparent;
+	transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+a:hover {
+	color: #667eea;
+	border-bottom-color: #667eea;
+}
+
+
+/* ——— Web address block ——— */
+
+#webaddress {
+	margin-top: 0.8em;
+	position: relative;
+	left: 30%;
+	font-family: 'IBM Plex Mono', 'SF Mono', Menlo, monospace;
+	font-size: 78%;
+	color: #9ca3af;
+}
+
+#webaddress a {
+	text-decoration: none;
+	color: #6b7280;
+	border-bottom: none;
+}
+
+#webaddress a:hover {
+	color: #667eea;
+}
+
+
+/* ——— Inline emphasis ——— */
+
+em {
+	font-weight: 600;
+	font-style: italic;
+}
+
+strong {
+	font-weight: 700;
+}
+
+
+/* ——— Utility ——— */
+
+#address {
+	display: none;
+}

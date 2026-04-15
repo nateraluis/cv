@@ -3,7 +3,7 @@ layout: cv
 title: Luis Natera
 ---
 # Luis Guillermo Natera Orozco, Ph.D.
-Software Developer.
+Creative Technologist.
 
 <div id="webaddress">
 <a href="mailto:natera@hey.com">natera@hey.com</a>
@@ -13,7 +13,7 @@ Software Developer.
 </div>
 
 
-Passionate and interdisciplinary Software Developer with a Ph.D. in Network Science from Central European University. I have developed innovative software solutions and digital platforms to address global challenges in sustainability, urban planning, and environmental monitoring. My expertise ranges from the development of Python-based algorithms for geospatial analysis, air pollutant monitoring, and accessibility evaluation to web applications for airport sustainability management and plastic packaging. I am driven by the potential of technology to create impactful solutions for both society and businesses.
+Creative Technologist and founder of Tyn Studio, with a Ph.D. in Network Science from Central European University. I build purposeful software at the intersection of technology, data, and design — from web platforms and AI-powered tools to geospatial analysis and urban research. With experience leading product development, operations, and interdisciplinary teams, I bring a calm, intentional approach to solving complex challenges in sustainability, urban planning, and environmental monitoring.
 
 ## Technical skills
 
@@ -40,13 +40,20 @@ Data Management
 
 ## Most Recent Work Experience
 
+`2026 - `
+__Founder, [Tyn Studio](https://tynstudio.com)__
+
+- Remote-first development studio specializing in web development, data science, and AI integration.
+- Custom Django and HTMX web applications, PostgreSQL database design, API development, and full-stack deployment.
+- Data science and geospatial analysis projects for urban planning and environmental research.
+- AI-powered tools and agent integration within web applications.
+
 `2023 - `
-__Software Engineer, [AerLabs](https://www.aerlabs.com)__
+__Head of Operations (prev. Software Engineer), [AerLabs](https://www.aerlabs.com)__
 
 - **Echo Environmental Management Platform.**
-	- Project lead, agile-based development of a web platform to manage the environmental impact of airports.
-	- Developed FastAPI-based backend to manage data collection, storage, and computational processes.
-	- Provided support to the frontend team to integrate the backend with the frontend.
+	- Oversaw the development of Echo, a web platform to manage the environmental impact of airports.
+	- Led product development, coordinating cross-functional teams and aligning technical delivery with business goals.
 - **Non-CO2 MRV,** DG CLIMA European Commission.
 	- Tech lead for a FastAPI-based data collection and storage platform for the European Commission (DG-CLIMA). 
 	- Stakeholder management (Airlines, EUROCONTROL, DG-CLIMA) to align on interests, design of the technical solution, and implementation of proof of concept.
@@ -55,7 +62,8 @@ __Software Engineer, [AerLabs](https://www.aerlabs.com)__
 	- Tech lead for the adaptation of Echo Environmental Management platform to the CAELUS project.
 	- Facilitator between the client (non technical team), and the development team.
 	- Backend (FastAPI) developer for custom processes and business implementation. 
-- **Business Development and Internal Processes.**
+- **Operations and Business Development.**
+	- Oversaw project delivery and internal operations as Head of Operations (from May 2025).
 	- Technical writer for business proposals, winning the bids for the European Commission and the Dutch Ministry of Infrastructure and Water Management.
 	- Developed the Information Security Management System (ISMS) for the company, culminating in obtaining the certification ISO 27001.
 	- Owner of the ISMS, responsible for maintaining the certification.
@@ -124,7 +132,7 @@ French (basic)
 
 
 
-<!-- ### Footer Last updated: April 2025 -->
+<!-- ### Footer Last updated: April 2026 -->
 
 
 
